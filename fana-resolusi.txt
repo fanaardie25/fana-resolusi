@@ -2,3 +2,5 @@ fana resolusi
 -konsisten membuat konten affiliate setiap hari
 -mendapat 100 juta pertama
 -Membuat web portfolio
+-Membuat web ecomerce
+-paham laravel
